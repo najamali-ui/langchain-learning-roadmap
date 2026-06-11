@@ -41,7 +41,7 @@ This repository contains six hands-on projects completed while learning Large La
 ## Loom Demonstrations
 
 ### Phase 1
-[Loom Video]()
+[Loom Video](http://loom.com/share/fed830944c114a8a9f3541e8c94aa279)
 
 ### Phase 2
 [Loom Video]()
