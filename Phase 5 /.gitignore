@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Mac
+.DS_Store
+
+# Database
+*.db
+
+# Vector Stores
+faiss_index/

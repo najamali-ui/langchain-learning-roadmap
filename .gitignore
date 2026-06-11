@@ -1,0 +1,21 @@
+# Environment Variables
+.env
+
+# Virtual Environments
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# PDFs
+*.pdf
+
+# FAISS
+faiss_index/
+*.faiss
+*.pkl
+
+# Mac
+.DS_Store
