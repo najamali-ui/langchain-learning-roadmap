@@ -50,7 +50,7 @@ This repository contains six hands-on projects completed while learning Large La
 [Loom Video](https://www.loom.com/share/8720605ee799486b9763ae8a4ca42928)
 
 ### Phase 4
-[Loom Video]()
+[Loom Video](https://www.loom.com/share/ac4d21efc8894b6b88a4cb062c902aa2)
 
 ### Phase 5
 [Loom Video]()
